@@ -1,1 +1,1 @@
-application:bundle exec ruby app.rb
+application:bundle exec ruby app.rb -p $PORT
